@@ -1,6 +1,7 @@
 Video explanation:
 
 References:
+
 p5.js library, loaded from the cdnjs CDN: https://cdnjs.com/libraries/p5.js (library site: https://p5js.org)
 
 p5.js reference pages for the functions I used: https://p5js.org/reference/ (look up cos(), sin(), angleMode(), keyIsDown(), keyPressed(), mousePressed(), circle(), line(), text(), degrees())
