@@ -7,4 +7,4 @@ p5.js reference pages for the functions I used: https://p5js.org/reference/ (loo
 
 Unit circle and trigonometric functions (the source of the formulas): https://en.wikipedia.org/wiki/Unit_circle and https://en.wikipedia.org/wiki/Trigonometric_functions
 
-AI tool used: Claude AI
+AI tool used for reference: Claude AI
